@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Apr 24 01:16:37 IST 2021
+org.eclipse.jst.j2ee.server\:File_Upload=C\:\\Users\\MEHUL\\Downloads\\apache-tomcat-8.5.65-windows-x64\\apache-tomcat-8.5.65\\wtpwebapps\\File_Upload
+org.eclipse.jst.jee.server\:LoginModule=C\:\\Users\\MEHUL\\Downloads\\apache-tomcat-8.5.65-windows-x64\\apache-tomcat-8.5.65\\wtpwebapps\\LoginModule
+org.eclipse.jst.jee.server\:DemoJSP=C\:\\Users\\MEHUL\\Downloads\\apache-tomcat-8.5.65-windows-x64\\apache-tomcat-8.5.65\\wtpwebapps\\DemoJSP
